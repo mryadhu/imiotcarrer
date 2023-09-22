@@ -1,0 +1,425 @@
+
+.nav-item-1{
+    background: linear-gradient(90deg, #0FE2FF 0.32%, #0028FB 102.55%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    
+}
+.btn {
+    background: linear-gradient(90deg, #8A1BF6 0%, #C03087 51.35%, #C03087 51.36%, #F94612 100%, #F91212 100%);
+    color: white;
+    border-radius: 2.9282576866764276vw;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 1.171303074670571vw;
+    font-family: Montserrat;
+    text-align: center;
+}
+.navbar-center {
+    display: flex;
+    justify-content: center;
+}
+.nav{
+    background:#180A25 !important;
+    background-color: #180A25;
+    border-radius: 60px;
+border: 1px solid #1CD6FF;
+background: rgba(24, 10, 37, 0.90);
+
+}
+.careers{
+    background: linear-gradient(92deg, #8A1BF6 0%, #B562FF 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    padding-left:  40.995607613469986vw;
+    padding-top: 21.96193265007321vw;
+    letter-spacing: 0.29282576866764276vw;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+    background:#180A25 !important;
+}
+.magic{
+    color: #FFF;
+text-align: center;
+font-family: Montserrat;
+font-size: 5.124450951683748vw;
+font-style: normal;
+font-weight: 1900;
+line-height: 6.222547584187408vw; /* 121.429% */
+}
+.Productization{
+    background: linear-gradient(90deg, #FF00B8 0%, #B312E0 37.67%, #DE08C9 71.17%, #8A1BF6 105.43%);
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+text-align: center;
+font-family: Montserrat;
+font-size: 5.124450951683748vw;
+font-style: normal;
+font-weight: 700;
+line-height: 6.222547584187408vw; /* 121.429% */
+}
+.open{
+    width: 26.13469985358712vw;
+height: 3.513909224011713vw;
+flex-shrink: 0;
+border-radius: 1.2445095168374818vw;
+background: #500F90;
+position: relative;
+left: 36.603221083455345vw;
+}
+.roles{
+    text-align: center;
+font-family: Montserrat;
+font-size: 1.8301610541727673vw;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+background: linear-gradient(180deg, #FFF 0%, #C4C4C4 100%);
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+text-align: center;
+padding-top: 0.43923865300146414vw;
+}
+.intelligent{
+    width: 47.58418740849194vw;
+    color: #FFF;
+font-family: Montserrat;
+font-size: 2.9282576866764276vw;
+font-style: normal;
+font-weight: 700;
+line-height: 3.6603221083455346vw; /* 125% */
+padding-left: 14.641288433382138vw;
+}
+.para1{
+    color: #FFF;
+font-family: Montserrat;
+font-size: 1.8301610541727673vw;
+font-style: normal;
+font-weight: 600;
+line-height: 2.9282576866764276vw; /* 160% */
+padding-left: 14.641288433382138vw;
+}
+.wevalue{
+    background: linear-gradient(0deg, #FF00F5, #9B3EF6 );
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+font-family: Montserrat;
+font-size: 1.8301610541727673vw;
+font-style: normal;
+font-weight: 600;
+line-height: 2.9282576866764276vw;
+padding-left: 14.641288433382138vw;
+}
+.para2{
+    color: #FFF;
+font-family: Montserrat;
+font-size: 1.3177159590043925vw;
+font-style: normal;
+font-weight: 600;
+line-height: 2.9282576866764276vw;
+padding-left: 14.641288433382138vw;
+}
+.para2s{
+    color: #8A1BF6;
+font-family: Montserrat;
+font-size: 1.8301610541727673vw;
+font-style: normal;
+font-weight: 600;
+line-height: 2.9282576866764276vw;
+}
+.explore{
+    color: #B672F8;
+font-family: Montserrat;
+font-size: 1.8301610541727673vw;
+font-style: normal;
+font-weight: 600;
+line-height: 2.9282576866764276vw; /* 160% */
+padding-left: 14.641288433382138vw;
+display: flex; 
+            justify-content: flex-start;          
+}
+.terms{
+    color: #B672F8;
+font-family: Montserrat;
+font-size: 1.8301610541727673vw;
+font-style: normal;
+font-weight: 600;
+line-height: 2.9282576866764276vw; /* 160% */
+padding-right: 14.641288433382138vw;
+display: flex; 
+            justify-content: flex-end;
+position: relative;
+bottom: 4.25vw;          
+}
+hr{
+    color: #fff;
+    width: 81.11288433382138vw;
+    height: 0.036603221083455345vw;
+
+}
+.growth{
+    color: #D9D9D9;
+text-align: center;
+font-family: Montserrat;
+font-size: 1.4641288433382138vw;
+font-style: normal;
+font-weight: 600;
+line-height: 2.9282576866764276vw; /* 200% */
+}
+.companies{
+    margin-left: 12.445095168374817vw;
+    margin-top: 3.6603221083455346vw;
+}
+.torque{
+    margin-left:2.2693997071742316vw ;
+}
+.tenp{
+    margin-left:4.465592972181552vw ;
+}
+.bevzilla{
+    margin-left:6.661786237188873vw ;
+}
+.saphire{
+    margin-left:8.857979502196194vw ;
+}
+.join{
+    margin-left: 8.784773060029282vw;
+    margin-top: 5.856515373352855vw;
+}
+.joinh4{
+    color: #FFF;
+font-family: Montserrat;
+font-size: 3.6603221083455346vw;
+font-style: normal;
+font-weight: 700;
+line-height: 5.124450951683748vw;
+
+}
+.heart{
+    color: #FFF;
+font-family: Montserrat;
+font-size: 1.610541727672035vw;
+font-style: normal;
+font-weight: 600;
+line-height: 2.9282576866764276vw;
+}
+.meet{
+    color: #B065FA;
+font-family: Montserrat;
+font-size: 1.4641288433382138vw;
+font-style: normal;
+font-weight: 600;
+line-height: 2.9282576866764276vw;
+}
+.chat{
+    color: #FFF;
+font-family: Montserrat;
+font-size: 1.4641288433382138vw;
+font-style: normal;
+font-weight: 600;
+line-height: 2.9282576866764276vw;
+}
+.chat{
+    color: #FFF;
+font-family: Montserrat;
+font-size: 1.4641288433382138vw;
+font-style: normal;
+font-weight: 600;
+line-height: 2.9282576866764276vw;
+}
+.chat{
+    color: #FFF;
+font-family: Montserrat;
+font-size: 1.4641288433382138vw;
+font-style: normal;
+font-weight: 600;
+line-height: 2.9282576866764276vw;
+}
+.chat{
+    color: #FFF;
+font-family: Montserrat;
+font-size: 1.4641288433382138vw;
+font-style: normal;
+font-weight: 600;
+line-height: 2.9282576866764276vw;
+}
+.chat{
+    color: #FFF;
+font-family: Montserrat;
+font-size: 1.4641288433382138vw;
+font-style: normal;
+font-weight: 600;
+line-height: 2.9282576866764276vw;
+}
+.chat{
+    color: #FFF;
+font-family: Montserrat;
+font-size: 1.4641288433382138vw;
+font-style: normal;
+font-weight: 600;
+line-height: 2.9282576866764276vw;
+}
+.a{
+    padding-left: 8.784773060029282vw;
+    padding-top: 5.856515373352855vw;
+}
+.loop{
+    color: #D9D9D9;
+text-align: center;
+font-family: Montserrat;
+font-size: 1.4641288433382138vw;
+font-style: normal;
+font-weight: 600;
+line-height: 2.9282576866764276vw; 
+padding-top: 2.9282576866764276vw
+;
+}
+.b{height: 71px;}
+.productss{
+    padding-left: 5.124450951683748vw;
+    padding-right: 5.124450951683748vw;
+    padding-top: 2.124450951683748vw;
+}
+.Imiot{
+    color: #973BF1;
+font-family: Montserrat;
+font-size: 3.6603221083455346vw;
+font-style: normal;
+font-weight: 700;
+line-height: 5.124450951683748vw;
+}
+.life{
+    padding-top: 5.124450951683748vw;
+    padding-left:5.3224450951683748vw ;
+    color: #FFF;
+font-family: Montserrat;
+font-size: 3.6603221083455346vw;
+font-style: normal;
+font-weight: 700;
+line-height: 5.124450951683748vw;
+}
+.storytell{
+    color: #FFF;
+font-family: Montserrat;
+font-size: 1.4641288433382138vw;
+font-style: normal;
+font-weight: 600;
+line-height: 2.9282576866764276vw;
+padding-left: 5.124450951683748vw;
+}
+.scroller{
+    overflow-x: hidden;
+    overflow-y: hidden;
+    margin-top: 4.392386530014641vw;
+    padding-left: 0vw;
+    padding-right: 0;
+  }
+  .team_list {
+   
+    display: flex;
+    justify-content: space-between;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+    transition: all 0.2s;
+    transform: scale(0.98);
+    will-change: transform;
+    user-select: none;
+    cursor: auto;
+  }
+  .teamlist{
+      border-radius: 2.1961932650073206vw;
+      margin: 0.7320644216691069vw;
+      padding: 0.7320644216691069vw;
+  }
+  .built{
+    color: #FFF;
+font-family: Montserrat;
+font-size: 3.6603221083455346vw;
+font-style: normal;
+font-weight: 700;
+line-height: 5.124450951683748vw;
+padding-left: 5.124450951683748vw;
+padding-top: 3.5vw;
+  }
+  .backed{
+    color: rgba(255, 255, 255, 0.50);
+font-family: Montserrat;
+font-size: 3.6603221083455346vw;
+font-style: normal;
+font-weight: 700;
+line-height:  5.124450951683748vw;
+  }
+  .firms{
+    color: #D9D9D9;
+font-family: Montserrat;
+font-size: 1.4641288433382138vw;
+font-style: normal;
+font-weight: 600;
+line-height: 2.9282576866764276vw;
+padding-left: 5.124450951683748vw;
+padding-top: 1vw;
+  }
+  .learnmore{
+    color: #B065FA;
+font-family: Montserrat;
+font-size: 1.4641288433382138vw;
+font-style: normal;
+font-weight: 600;
+line-height: 2.9282576866764276vw;
+padding-left: 5.124450951683748vw;
+padding-top: 1vw;
+  }
+  .position{
+    
+    color: #D9D9D9;
+font-family: Montserrat;
+font-size: 1.3177159590043925vw;
+font-style: normal;
+font-weight: 500;
+line-height: 2.9282576866764276vw;
+  }
+  .name{
+    padding-top: 3vw;
+    color: #FFF;
+font-family: Montserrat;
+font-size: 1.4641288433382138vw;
+font-style: normal;
+font-weight: 700;
+line-height: 2.9282576866764276vw;
+  }
+ .perks{
+    display: flex;
+    padding-left :1vw;
+    padding-top: 2vw;
+ }
+
+  .benifits{
+    color: #FFF;
+font-family: Montserrat;
+font-size: 1.4641288433382138vw;
+font-style: normal;
+font-weight: 700;
+line-height:2.9282576866764276vw;
+
+  }
+.perkbenifit{
+    color: #FFF;
+font-family: Montserrat;
+font-size: 3.6603221083455346vw;
+font-style: normal;
+font-weight: 700;
+line-height: 5.124450951683748vw;
+padding-top: 4vw;
+}
+.img1{
+    padding-right: 1.5vw;
+    padding-top: 0.7vw;
+}
+
